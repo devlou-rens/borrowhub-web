@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 70px;
     background-color: #332e2e;
-}
+} 
 
 .input11, .select, .button { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px; }
 .button11 { 
